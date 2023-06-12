@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/devchallenges.io/static/css/main.a07990d5.css",
+    "main.js": "/devchallenges.io/static/js/main.80deed3e.js",
+    "static/js/787.b1c209f5.chunk.js": "/devchallenges.io/static/js/787.b1c209f5.chunk.js",
+    "index.html": "/devchallenges.io/index.html",
+    "main.a07990d5.css.map": "/devchallenges.io/static/css/main.a07990d5.css.map",
+    "main.80deed3e.js.map": "/devchallenges.io/static/js/main.80deed3e.js.map",
+    "787.b1c209f5.chunk.js.map": "/devchallenges.io/static/js/787.b1c209f5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a07990d5.css",
+    "static/js/main.80deed3e.js"
+  ]
+}

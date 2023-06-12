@@ -1,0 +1,120 @@
+.Buttonscomp{
+position: absolute;
+width: 1203px;
+height: 1024px;
+left: 237px;
+top: 0px;
+background: #FFFFFF;
+}
+* { margin: 0; padding: 0;}
+.combicomp{
+    display: flex;
+    flex-direction: column;
+    height: 60px;
+    width: fit-content;
+}
+.buttonstext{
+position: absolute;
+width: 93px;
+height: 36px;
+left: 83px;
+top: 53px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 36px;
+color: #4F4F4F;
+}
+.buttoncompp{
+position: absolute;
+width: 332px;
+height: 60px;
+left: 82px;
+top: 117px;
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+}
+
+.buttoncompp2{
+    position: absolute;
+    width: 332px;
+    height: 60px;
+    left: 82px;
+    top: 222px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    }
+
+    .buttoncompp3{
+        position: absolute;
+        width: 332px;
+        height: 60px;
+        left: 82px;
+        top: 327px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        }
+
+        .buttoncompp4{
+            position: absolute;
+            width: 332px;
+            height: 60px;
+            left: 82px;
+            top: 432px;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            }
+
+            .buttoncompp5{
+            position: absolute;
+            width: 572px;
+            height: 60px;
+            left: 82px;
+            top: 534px;
+            display: flex;
+        justify-content: space-between;
+                }
+
+                .buttoncompp6{
+                    position: absolute;
+                    width: 572px;
+                    height: 60px;
+                    left: 82px;
+                    top: 639px;
+                    display: flex;
+                justify-content: space-between;
+                        }
+                        .buttoncompp7{
+                            position: absolute;
+                            width: 532px;
+                            height: 66px;
+                            left: 82px;
+                            top: 744px;
+                            display: flex;
+                        justify-content: space-between;
+                                }
+
+                                .buttoncompp8{
+                                    position: absolute;
+                                    width: 802px;
+                                    height: 66px;
+                                    left: 82px;
+                                    top: 900px;
+                                    display: flex;
+                                justify-content: space-between;
+                                        }
+body{
+position: relative;
+}
+p{
+font-family: 'Ubuntu Mono';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 12px;
+}

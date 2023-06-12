@@ -1,0 +1,32 @@
+
+.iconstext{
+position: absolute;
+width: 330px;
+height: 12px;
+left: 320px;
+top: 1072px;
+font-family: 'Ubuntu Mono';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 12px;
+color: #828282;
+}
+
+.createdtext{
+position: absolute;
+width: 287px;
+height: 17px;
+left: 322px;
+top: 1118px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+text-align: center;
+color: #A9A9A9;
+}
+body{
+    position: relative;
+}

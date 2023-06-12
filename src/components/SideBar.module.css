@@ -1,0 +1,104 @@
+.heading{
+position: absolute;
+width: 114px;
+height: 20px;
+left: 48px;
+top: 38px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 13px;
+line-height: 20px;
+color: #F7542E;
+}
+.SideBar{
+    position: absolute;
+    width: 237px;
+    height: 1210px;
+    left: -8.5px;
+    top: -9.07px;
+    background: #FAFBFD;
+}
+.colortext{
+position: absolute;
+width: 62px;
+height: 20px;
+left: 48px;
+top: 180px;
+font-family: 'Noto Sans JP';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 20px;
+color: #9E9E9E;
+}
+.typography{
+position: absolute;
+width: 80px;
+height: 20px;
+left: 48px;
+top: 225px;
+font-family: 'Noto Sans JP';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 20px;
+color: #9E9E9E;
+}
+.spacestext{
+    position: absolute;
+    width: 47px;
+    height: 20px;
+    left: 48px;
+    top: 277px;
+    font-family: 'Noto Sans JP';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+    color: #9E9E9E;
+}
+.buttonstext{
+position: absolute;
+width: 53px;
+height: 20px;
+left: 48px;
+top: 327px;
+font-family: 'Noto Sans JP';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 20px;
+color: #9E9E9E;
+
+}
+.Inputstext{
+    position: absolute;
+    width: 45px;
+    height: 20px;
+    left: 48px;
+    top: 375px;
+    font-family: 'Noto Sans JP';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 20px;
+    color: #090F31;
+}
+.Gridtxt{
+    position: absolute;
+    width: 29px;
+    height: 20px;
+    left: 48px;
+    top: 430px;
+    font-family: 'Noto Sans JP';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+    color: #9E9E9E;
+    
+}
+body{
+    position: relative;
+}
